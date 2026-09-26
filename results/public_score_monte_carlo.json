@@ -1,0 +1,11 @@
+{
+  "source": "historical SCORE control pass summaries",
+  "mc_draws": 100000,
+  "eligible_ordered_pairs": 6,
+  "exact_cases": 80,
+  "mc_hits": 0,
+  "exact_hits": 0,
+  "maximum_three_date_median": 0.8457373310487752,
+  "interpretation": "finite observed-control resampling only; zero hits is not a population p-value or deployment probability",
+  "input_note": "pass-level public SCORE derived summaries inherited from prior analysis; selected original raw SCORE responses also included"
+}
