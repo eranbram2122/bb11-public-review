@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "public_core_reproduction": "Passed offline before GitHub upload",
+  "supgp_reproduction": "Matches working analysis",
+  "score_matches": "All five match prior analysis",
+  "paper_characters": 27932,
+  "raw_score_records": 566,
+  "commercial_raw_files_included": false,
+  "privacy_scan": "No local home paths or credential patterns found",
+  "monte_carlo_validation": {
+    "status": "passed",
+    "checks": [
+      "all 274 exact cases recomputed independently from daily values",
+      "three dates unique per case",
+      "threshold outcomes recomputed",
+      "public SCORE reproduction agrees"
+    ],
+    "scope": "finite empirical resampling only; no population significance claim"
+  },
+  "version": "1.4",
+  "technical_edit_checks": [
+    "Monte Carlo retained",
+    "share-price discussion absent from paper",
+    "failure boundaries and proposed discriminators included",
+    "no claim tracking proves spacecraft function"
+  ],
+  "voice_edit_checks": [
+    "first-person singular throughout paper",
+    "all tables unchanged except first-person pronouns",
+    "personal background thesis separately labeled",
+    "technical limits retained",
+    "no share-price discussion in paper"
+  ],
+  "public_score_monte_carlo_reproduction": "Passed offline before GitHub upload"
+}
